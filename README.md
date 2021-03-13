@@ -12,7 +12,7 @@ your task is to create a functioning cryptocurrency converter using the technolo
 
 # How to submit
 
-- [ ] create a private copy of this repo
+- [ ] Create a private copy of this repo
 - [ ] Complete the task above in a feature branch
 - [ ] Create a pull request against your private repository master branch
 - [ ] In the PR, write how much time it took you to finish the exercise
@@ -26,9 +26,7 @@ We will check
 - If the instructions were properly followed
 - If the end result work properly
 - Code quality
-- commits and Pull request commenting quality
-
-Note: This exercise is expected to be done in maximum 3 days.
+- Commits and Pull request commenting quality
 
 # Prerequisites
 
