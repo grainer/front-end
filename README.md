@@ -16,7 +16,8 @@ your task is to create a functioning cryptocurrency converter using the technolo
 
 # How to submit
 
-- [ ] Create a private copy of this repo
+- [ ] Create a private copy of this repo or use as template 
+![image](https://user-images.githubusercontent.com/14952013/111130392-24065600-85b2-11eb-8044-c95393ee263d.png)
 - [ ] Complete the task above in a feature branch
 - [ ] Create a pull request against your private repository master branch
 - [ ] In the PR, write how much time it took you to finish the exercise and the demo link
