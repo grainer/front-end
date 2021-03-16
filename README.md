@@ -8,14 +8,19 @@ your task is to create a functioning cryptocurrency converter using the technolo
 
 - for getting cryptocurrencies information and rates you can use [coingecko](https://www.coingecko.com/en) free api (feel free to use any other api as long as it fulfills the purpose).
 
-- your reference will be this dribbble shot: [Exchange Money - Revolut for Business](https://dribbble.com/shots/4632373-Exchange-Money-Revolut-for-Business)
+- your reference will be this dribbble shot: [Exchange Money - Revolut for Business](https://dribbble.com/shots/4632373-Exchange-Money-Revolut-for-Business) (the chart showing the historical price is optional to implement)
+
+- Deploy your solution for demo purpose.
+
+- please ensure that your solution could be considered "production ready" and complete.
 
 # How to submit
 
-- [ ] create a private copy of this repo
+- [ ] Create a private copy of this repo or use as template 
+![image](https://user-images.githubusercontent.com/14952013/111130392-24065600-85b2-11eb-8044-c95393ee263d.png)
 - [ ] Complete the task above in a feature branch
 - [ ] Create a pull request against your private repository master branch
-- [ ] In the PR, write how much time it took you to finish the exercise
+- [ ] In the PR, write how much time it took you to finish the exercise and the demo link
 - [ ] Invite a Github user `gimyboya` to your repository
 - [ ] Send us an email at `info@grainer.io` informing us that you completed the exercise
 
@@ -26,15 +31,13 @@ We will check
 - If the instructions were properly followed
 - If the end result work properly
 - Code quality
-- commits and Pull request commenting quality
-
-Note: This exercise is expected to be done in maximum 3 days.
+- Commits and Pull request commenting quality
 
 # Prerequisites
 
 You are expected to have a solid understanding of HTML, CSS, and modern javascript as well as modern tooling used for frontend development environments.
 
-Typescript and Vuejs.
+Typescript, Vuejs and Tailwindcss.
 
 ## Project setup
 
