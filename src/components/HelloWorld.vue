@@ -8,11 +8,15 @@
       <v-col class="mb-4">
         <h1 class="text-5xl font-bold">Welcome to the frontend exersise</h1>
         <p>if you are able to see this, congratulations you are properly setup.</p>
-        <p>As you may noticed this is a starter kit with our development environment and code practices tp get you quickly started.</p>
+        <p>
+          As you may noticed this is a starter kit with our development environment and code
+          practices to get you quickly started.
+        </p>
         <p>
           this project uses manily
           <a href="https://tailwindcss.com/" class="text-blue-600">Vuetify</a> and
-          <a href="https://tailwindcss.com/" class="text-green-600">TailwindCSS</a> and we want you to use them.
+          <a href="https://tailwindcss.com/" class="text-green-600">TailwindCSS</a> and we want you
+          to use them.
         </p>
       </v-col>
       <v-col class="mb-5" cols="12">
